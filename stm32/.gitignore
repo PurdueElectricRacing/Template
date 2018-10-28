@@ -3,3 +3,4 @@
 !Src/*
 !Inc/*
 !*.ioc
+!.gitignore
